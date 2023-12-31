@@ -1,9 +1,2 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div align="center">
-  <h1>
-    <a href="https://github.com/melikeisbir">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=A7C278&center=true&vCenter=true&width=435&height=70&lines=Hi%2C+I'm+Melike%F0%9F%91%8B">
-    </a>
-  </h1>
-</div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=200%&section=footer&text=M%20e%20l%20i%20k%20e%20"/>
